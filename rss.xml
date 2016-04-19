@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sephsson]]></title>
         <description><![CDATA[Sephsson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sephsson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 06:34:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 06:35:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sephsson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SEPHSSON]]></title>
             <description><![CDATA[<article><h1>SEPHSSON</h1><h2>Film - Photo - Graphic Design</h2></article>]]></description>
-            <link>undefinedsephsson/index.html</link>
+            <link>https://thegrid.ai/sephsson/sephsson/index.html</link>
             <guid isPermaLink="false">6e963954-f3d1-48d3-a9ad-71f5851bcc41</guid>
-            <pubDate>Tue, 19 Apr 2016 06:34:38 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 06:34:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
