@@ -1,0 +1,28 @@
+name: Sephsson
+favicon: null
+layout_spectrum: 0.3209331864491105
+typography_spectrum: 0.34697881271131337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9502572463825345
+  lightness: 0.21740379044786096
+  saturation: 0.8386079918127507
+  rhythmicContrast: 0.15821878775022924
+purpose: []
