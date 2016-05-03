@@ -4,7 +4,7 @@
         <description><![CDATA[SEPHSSON]]></description>
         <link>https://thegrid.ai/sephsson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 07:18:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sephsson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About me]]></title>
@@ -18,6 +18,13 @@
             <link>https://www.facebook.com/sephsson/?ref=aymt_homepage_panel</link>
             <guid isPermaLink="false">0829a79f-2bfc-40a3-9bea-c0ac9a38c1a9</guid>
             <pubDate>Tue, 19 Apr 2016 13:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Just nu håller jag på att redigera en "behind the scenes" film för World Market Sthlm. </p>]]></description>
+            <link>https://thegrid.ai/sephsson/just-nu-haller-jag-pa-att-redigera-en-behind-the-scenes-fi/index.html</link>
+            <guid isPermaLink="false">5e5bf0ad-ed5e-494a-ac75-5bc017be0e61</guid>
+            <pubDate>Tue, 19 Apr 2016 11:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
