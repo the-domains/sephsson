@@ -1,5 +1,8 @@
+name: Sephsson
+favicon: null
+layout_spectrum: 0.51238
+typography_spectrum: 0.5471
 title: SEPHSSON
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0.7427498
   brandColors:
     - '#040509'
     - '#443f39'
     - '#938372'
     - '#e1ddec'
     - '#faa27d'
+  brandStrength: 1
+  lightness: 0.7427498
+  saturation: 0
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Sephsson
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.906015
-layout_spectrum: 0
+purpose: []
