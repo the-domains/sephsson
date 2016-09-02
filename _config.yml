@@ -1,7 +1,7 @@
 name: Sephsson
 favicon: null
 layout_spectrum: 0.51238
-typography_spectrum: 0.5471
+typography_spectrum: 0.41089
 title: SEPHSSON
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#35271d'
-    - '#a2b8be'
-    - '#584631'
-    - '#fff8f0'
-    - '#9a855e'
+    - '#377193'
+    - '#513d27'
+    - '#f3d7b7'
+    - '#94927e'
+    - '#d63440'
   brandStrength: 0.5
   lightness: 1
   saturation: 0
